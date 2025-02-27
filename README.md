@@ -1,3 +1,5 @@
 # rzen1th-general-foley
 A completely free audio library!
-These samples are free to use in any NON-PROFIT or NON-COMMERCIAL project (unless express permission is given); just be sure to credit rzen1th.
+This repository contains every sound effect I have made (that I own the rights to) to date. All of the SFX in this repository were recorded and/or designed by myself. The contents of this library are completely free to download, use, and modify for any NON-PROFIT or NON-COMMERCIAL project (unless express permission is given); just be sure to credit rzen1th. That's lowercase r, zen, 1 (one), th.
+
+If you need help, ideas, or want to get in contact with me for any reason, the best way to do so is through Discord. Feel free to DM me or join my server. i'll update this readme with that info soon i promise
