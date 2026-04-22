@@ -4,3 +4,4 @@ This repository contains every sound effect I have recorded and/or designed (tha
 
 Backups are available here:
 [Google Drive](https://drive.google.com/drive/folders/17bIgacqDevJLoRNfKTa3Epp5Ruf0GzjA?usp=drive_link)
+[MEGA](https://mega.nz/folder/VjlBEY7J#Y3mc1bLFYckCb_SRt4Chxw)
